@@ -1,2 +1,3 @@
 # gladGL
-GLAD loader for OpenGL only, Core profile 4.6
+GLAD loader with CMake for OpenGL only.
+Core profile 4.6
